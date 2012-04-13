@@ -26,3 +26,9 @@ Vim searchs for user-specific resources at the following locations:
 
 scala.vim was contributed by Stefan Matthias Aust (nobody@3plus4.de)
 
+* bjartek changes
+
+ - Changed the syntax coloring for classnames etc, do not like the red color in solorized
+ - added ftplugin to set up tagbar support for scala
+
+
